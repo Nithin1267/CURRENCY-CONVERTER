@@ -5,7 +5,7 @@
 ![RupeeX Banner](https://img.shields.io/badge/RupeeX-Currency%20Converter-FF9933?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMjAiPuKCuTwvdGV4dD48L3N2Zz4=)
 ![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-138808?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-0033A0?style=for-the-badge)
-![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-FFB700?style=for-the-badge)
+
 
 ---
 
