@@ -1,5 +1,5 @@
 # RupeeX — Smart Currency Converter 🇮🇳
-live demo;https://nithin1267.github.io/CURRENCY-CONVERTER/
+🔗Live Demo: https://nithin1267.github.io/CURRENCY-CONVERTER/
 > A beautifully crafted, India-first currency converter powered by AI — built with pure HTML, CSS & JavaScript.
 
 ![RupeeX Banner](https://img.shields.io/badge/RupeeX-Currency%20Converter-FF9933?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMjAiPuKCuTwvdGV4dD48L3N2Zz4=)
